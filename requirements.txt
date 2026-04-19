@@ -1,0 +1,19 @@
+# requirements.txt
+
+```txt
+# Python MSc Practical Submission Requirements
+
+# Required for MySQL database programs (Q26, Q27, Q28)
+mysql-connector-python>=8.0.0
+
+```
+
+## Notes
+
+* For most questions (Q01–Q25, Q29, Q30), Python standard library is enough.
+* Only MySQL questions require an external package.
+* Install all dependencies using:
+
+```bash id="i8wjq1"
+pip install -r requirements.txt
+```
