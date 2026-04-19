@@ -100,9 +100,3 @@ Course: M.Sc. Artificial Intelligence & Big Data Analytics
 ````
 
 ---
-
-# requirements.txt
-
-```txt
-mysql-connector-python>=8.0.0
-````
