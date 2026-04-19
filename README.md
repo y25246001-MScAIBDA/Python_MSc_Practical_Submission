@@ -72,16 +72,6 @@ Python_MSc_Practical_Submission/
 
 ---
 
-## How to Run
-
-```bash
-python Programs_And_Output/Q01.py
-python Programs_And_Output/Q02.py
-python Programs_And_Output/Q30.py
-````
-
----
-
 ## Install Dependencies
 
 ```bash
@@ -99,10 +89,13 @@ pip install -r requirements.txt
 
 ---
 
-## Author
+## Author Details
 
-Student Practical Submission
-M.Sc. Artificial Intelligence & Big Data Analytics
+Name: Deepak Sharma
+Roll Number: Y24256001
+Email: y25246001@dhsgsu.edu.in
+University: Dr. Hari Singh Gaur Vishwavidyalaya
+Course: M.Sc. Artificial Intelligence & Big Data Analytics
 
 ````
 
