@@ -14,12 +14,9 @@ This repository contains solutions for all 30 Python practical questions includi
 Python_MSc_Practical_Submission/
 ├── README.md
 ├── requirements.txt
-├── pdf/
-│   └── Final_Report.pdf
 └── Programs_And_Output/
     ├── Q01.py to Q30.py
     └── Outputs/
-
 ---
 
 ## Practical Questions Covered
